@@ -94,7 +94,7 @@ if(isset($_GET['id'])) {
 							<br />
 							<p><?php echo $pizza['description']; ?></p>
 						<?php else: ?>
-							<div class="alert alert-danger" role="alert">Cette pizza n'existe pas</div>
+							<div class="alert alert-danger" role="alert">Cette pizza est mauvaise pour la santé</div>
 						<?php endif; ?>
 					</div>
 				</div>
