@@ -20,7 +20,7 @@ if(isset($_GET['id'])) {
 	    echo "</pre>";
 	}
 	else {
-		echo "Cette pizza n'existe pas.";
+		echo "Cette pizza est perimée.";
 	}*/
 
 	// 8. Refaire une reqûete sql pour récupérer les ingrédients de cette pizza.
