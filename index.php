@@ -1,5 +1,5 @@
 <?php 
-require_once(__DIR__.'/config/dc.php');
+require_once(__DIR__.'/config/dt.php');
 
 // 1. Récupérer la variable en GET : id en checkant qu'elle est bien défini
 // 2. Afficher la variable id. Exemple : http://localhost/php/26/pizza_site/index.php?id=2
